@@ -12,17 +12,23 @@ arquivo html tem uma estrutura padrão idoc
     emojis &#x
 
     computação começou na guerra fria
-    ()criação da internet)darpa:deparamento de defesa dos estados unidos 
+    ()criação da internet)arpanet darpa:deparamento de defesa dos estados unidos 
+eles precisavam compartilhar dados então foi criada uma rede
     tinha somente quatro maquinas eram maquinas de faculdades
     trazia o problema que so uma maquina podia de se comunicar por vez na troca de pacotes
     protocolo tcp
 
-    tcp ip
+    tcp ip criada por vinton cerf e  robert kahn
     substituiu ncp
     novo nome pra rede
     internet work(segundo nome da internet)
+cientista Tim Berners criou
     www=world wide web
     https
+html
+
+
+mosaic primeiro navegador
 
     aula 2
 
@@ -31,7 +37,7 @@ arquivo html tem uma estrutura padrão idoc
     1 quando esta ligado,0 quando esta desligado,esse estado dependia pela passagem de corrente eletrica no transistor
 
     byte=8bits
-    bit=
+    bit=combinação de 0s e 1s
 
     binario pra hexadecimal e reverso
 
