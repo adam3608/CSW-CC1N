@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Top-Secret' ;
+    src: url('/fontes/Top\ Secret.ttf') format(truetype);
+}
+@font-face {
+    font-family: 'Gimme Danger' ;
+    src: url('/fontes/Gimme\ Danger.ttf') format(truetype);
+}
+@font-face {
+    font-family: 'LL Cooper' ;
+    src: url('/fontes/LL\ Cooper.ttf') format(truetype);
+}
+h1 {
+    font-family: 'Top-Secret', cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+h2 {
+    font-family: 'Gimme Danger';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+p {
+    font-family: 'LL Cooper';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}

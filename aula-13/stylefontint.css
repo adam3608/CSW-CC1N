@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10em;
+    font-style: normal;
+    font-variation-settings: 100;
+}
+p {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}   
