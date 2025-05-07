@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 15</title>
+</head>
+<body>
+    <form action="post">
+        <label for="">Nome de usúario</label>
+        <input type="text" name="nome-usuário" id="nome-usuário01" size="30" maxlength="40"
+        value=""
+        placeholder="Digite seu nome" required>
+
+        <label for="">Data de nacimento</label>
+        <input type="date" required>
+        <input type="time" required>
+
+        <input type="month" name="mês" id="month01" required>
+        <textarea name="comentário" id="" cols="50" rows="20" 
+        placeholder="Escreva aqui um comentário" readonly></textarea>
+
+        <label for="email">email:</label>
+        <input type="email" name="email" id="email">
+
+        <label for="">Selecione o contéudo</label>
+        <input type="checkbox" name="" id="">
+
+        <label for="">Região de interesse</label>
+        <select name="locais" size="1">
+            <option value="">Selecione:</option>
+            <option value="">Paris</option>
+            <option value="">Russia</option>
+        </select>
+
+        <label for="">Receber contato:</label>
+            <input type="radio"> Sim 
+            <input type="radio"> Não
+
+        <input type="submit" value="enviar e-mail">
+
+        <input type="reset" value="limpar">
+
+        <input type="button" value="voltar">
+
+
+    </form>
+</body>
+</html>
