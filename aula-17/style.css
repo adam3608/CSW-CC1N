@@ -1,0 +1,11 @@
+.caixa{
+    border: 10px;
+    border-radius: 20px;
+    text-align: center;
+    align-content: left;
+    background-color: aliceblue;
+    max-width: 400px;
+    margin: 20px                      ;
+
+}
+body{background-color: rgb(89, 87, 100);}
