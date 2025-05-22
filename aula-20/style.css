@@ -1,0 +1,4 @@
+.button:hover{
+    color: blueviolet;
+    filter:brightness(100)
+}
